@@ -1,5 +1,4 @@
-Este **proyecto PHP puro con SQLite** implementa registro y login usando `password_hash()` y `password_verify()`, junto con documentación en formato **Markdown**.  
-
+Este **proyecto PHP puro con SQLite** implementa registro y login usando `password_hash()` y `password_verify()`.
 ***
 
 # Proyecto: Sistema de Autenticación con SQLite y Hash Seguro
